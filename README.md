@@ -5,5 +5,7 @@ The reasoning behind it was that it was annoying to me that for GPT Plus users i
 
 
 if  you want to install it you need to go to:
+
 about:debugging#/runtime/this-firefox
+
 and load temporary addon by choosing xpi file from this repository
